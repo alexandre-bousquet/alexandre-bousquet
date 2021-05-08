@@ -11,7 +11,6 @@
 ## What do you need to know about me ?
 - Huge weeb and geek
 - Meme master
-- Cat person
+- Cat person 
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/worriades?color=1DA1F2&label=%40worriades&logo=Twitter&style=for-the-badge)](https://twitter.com/worriades)
+Do not hesitate to visit my [Eportfolio](https://alexandre-bousquet.github.io/)
