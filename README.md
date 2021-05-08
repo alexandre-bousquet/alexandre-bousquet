@@ -13,4 +13,5 @@
 - Meme master
 - Cat person
 
-![ghqwpssqmny](https://user-images.githubusercontent.com/47148324/117548589-0e536100-b036-11eb-947c-89d8becee52c.jpeg)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/worriades?color=1DA1F2&label=%40worriades&logo=Twitter&style=for-the-badge)](https://twitter.com/worriades)
