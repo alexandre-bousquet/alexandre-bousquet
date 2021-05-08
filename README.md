@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**alexandre-bousquet/alexandre-bousquet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who i am ?
+- French IT student at the UIT of Montpellier
+- Currently in a internship at the Research Institute for Development of Montpellier
 
-Here are some ideas to get you started:
+## My favorite programming languages
+- JavaScript
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do you need to know about me ?
+- Huge weeb and geek
+- Meme master
+- Cat person
+
+![ghqwpssqmny](https://user-images.githubusercontent.com/47148324/117548589-0e536100-b036-11eb-947c-89d8becee52c.jpeg)
