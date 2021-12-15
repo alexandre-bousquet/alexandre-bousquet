@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 ## Who i am ?
-- French IT student at the UIT of Montpellier
-- Currently in a internship at the Research Institute for Development of Montpellier
+- French IT student in a web professional license at the UIT of Montpellier (bachelor's degree)
+- Currently a working student at Apex Energies on Montpellier
 
 ## My favorite programming languages
 - JavaScript
