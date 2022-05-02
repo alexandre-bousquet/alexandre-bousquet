@@ -3,9 +3,10 @@
 ## Who i am ?
 - French IT student in a web professional license at the UIT of Montpellier (bachelor's degree)
 - Currently a working student at Apex Energies on Montpellier
+- Previously in a intership at the Research Institute for Development of Montpellier
 
 ## My favorite programming languages
-- JavaScript
+- JavaScript (Vue.js)
 - Java
 
 ## What do you need to know about me ?
