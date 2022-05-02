@@ -13,4 +13,4 @@
 - Meme master
 - Cat person 
 
-Do not hesitate to visit my [Eportfolio](https://alexandre-bousquet.github.io/)
+Do not hesitate to visit my [eportfolio](https://alexandre-bousquet.github.io/)
