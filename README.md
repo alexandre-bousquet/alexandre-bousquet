@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 ## Who i am ?
-- French IT student in a web professional license at the UIT of Montpellier (bachelor's degree)
+- French IT student in a Master's degree at Montpellier
 - Currently a working student at Apex Energies on Montpellier
 - Previously in a intership at the Research Institute for Development of Montpellier
 
