@@ -8,13 +8,13 @@
 ## My skills
 
 ### Languages
-[![Favorites](https://skillicons.dev/icons?i=java,js,ts,html,css,postgresql&theme=light)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=java,js,ts,html,css,postgresql,graphql&theme=light)](https://skillicons.dev)
 
 ### Librairies
 [![Favorites](https://skillicons.dev/icons?i=nodejs,vue,react,tailwind,prisma&theme=light)](https://skillicons.dev)
 
 ### Tools
-[![Favorites](https://skillicons.dev/icons?i=postman,github,gitlab,docker&theme=light)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=postman,github,gitlab,docker,webstorm&theme=light)](https://skillicons.dev)
 
 
 ## What do you need to know about me ?
