@@ -5,8 +5,16 @@
 - Currently a working student at Apex Energies on Montpellier
 - Previously in a intership at the Research Institute for Development of Montpellier
 
-## My favorite programming languages & frameworks
-[![Favorites](https://skillicons.dev/icons?i=java,js,nodejs,vue,&theme=light)](https://skillicons.dev)
+## My skills
+
+### Languages
+[![Favorites](https://skillicons.dev/icons?i=java,js,ts,html,css,postgresql&theme=light)](https://skillicons.dev)
+
+### Librairies
+[![Favorites](https://skillicons.dev/icons?i=nodejs,vue,react,tailwind,prisma&theme=light)](https://skillicons.dev)
+
+### Tools
+[![Favorites](https://skillicons.dev/icons?i=postman,github,gitlab,docker&theme=light)](https://skillicons.dev)
 
 
 ## What do you need to know about me ?
