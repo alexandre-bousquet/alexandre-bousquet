@@ -3,6 +3,7 @@
 ## Who I am ?
 - French master graduated IT student.
 - Previously a working student at Apex Energies on Montpellier and in a intership at the Research Institute for Development of Montpellier.
+- Bilingual english.
 
 ## My skills
 
@@ -15,10 +16,9 @@
 ### Tools
 [![Favorites](https://skillicons.dev/icons?i=postman,github,gitlab,docker,webstorm&theme=light)](https://skillicons.dev)
 
-
 ## What do you need to know about me ?
-- Huge weeb and geek
-- Meme master
-- Cat person 
+- Huge weeb and geek.
+- Very aware and into web culture.
+- Cat person.
 
 Do not hesitate to visit my [eportfolio](https://alexandre-bousquet.github.io/portfolio-v1)
