@@ -1,16 +1,15 @@
 ### Hello there 👋
 
-## Who i am ?
-- French IT student in a Master's degree at Montpellier
-- Currently a working student at Apex Energies on Montpellier
-- Previously in a intership at the Research Institute for Development of Montpellier
+## Who I am ?
+- French master graduated IT student.
+- Previously a working student at Apex Energies on Montpellier and in a intership at the Research Institute for Development of Montpellier.
 
 ## My skills
 
 ### Languages
 [![Favorites](https://skillicons.dev/icons?i=java,js,ts,html,css,postgresql,graphql&theme=light)](https://skillicons.dev)
 
-### Librairies
+### Librairies & Frameworks
 [![Favorites](https://skillicons.dev/icons?i=nodejs,vue,react,tailwind,prisma&theme=light)](https://skillicons.dev)
 
 ### Tools
@@ -22,4 +21,4 @@
 - Meme master
 - Cat person 
 
-Do not hesitate to visit my [eportfolio](https://alexandre-bousquet.github.io/)
+Do not hesitate to visit my [eportfolio](https://alexandre-bousquet.github.io/portfolio-v1)
