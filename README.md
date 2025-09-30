@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 ## Who I am ?
+- Freelance full-stack developer.
 - French master graduated IT student.
 - Previously a working student at Apex Energies on Montpellier and in a intership at the Research Institute for Development of Montpellier.
 - Bilingual english.
