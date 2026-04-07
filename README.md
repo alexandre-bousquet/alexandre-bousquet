@@ -2,6 +2,7 @@
 
 ## Who I am ?
 - Freelance full-stack developer.
+- 4 years work experience.
 - French master graduated IT student.
 - Previously a working student at Apex Energies on Montpellier and in a intership at the Research Institute for Development of Montpellier.
 - Bilingual english.
@@ -9,7 +10,7 @@
 ## My skills
 
 ### Languages
-[![Favorites](https://skillicons.dev/icons?i=java,js,ts,html,css,postgresql,graphql&theme=light)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=js,ts,java,php,html,css,mysql,postgresql,graphql&theme=light)](https://skillicons.dev)
 
 ### Librairies & Frameworks
 [![Favorites](https://skillicons.dev/icons?i=nodejs,vue,react,tailwind,prisma&theme=light)](https://skillicons.dev)
@@ -21,5 +22,3 @@
 - Huge weeb and geek.
 - Very aware and into web culture.
 - Cat person.
-
-Do not hesitate to visit my [eportfolio](https://alexandre-bousquet.github.io/portfolio-v1)
